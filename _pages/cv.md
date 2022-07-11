@@ -13,9 +13,9 @@ redirect_from:
 Education
 ======
 * Ph.D. in Computer Science [2020 – present]
- 	* University of California Davis
- 	* Research: Emerging Disaggregated/Heterogenous Memory Systems 
- 	* Graduate Student Researcher at DArchR Research Group 
+  * University of California Davis
+  * Research: Emerging Disaggregated/Heterogenous Memory Systems 
+  * Graduate Student Researcher at DArchR Research Group 
 
 * Master of Science in Computer Science
   * University of Central Florida [2018 – 2020]
