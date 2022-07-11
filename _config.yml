@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Maryam Babaie"
   avatar           : "ProfilePic.jpg"
-  bio              : "PhD student in DArchR Research Group "
+  bio              : "PhD student in <a href="https://arch.cs.ucdavis.edu/">DArchR Research Group</a>"
   location         : "University of California, Davis"
   employer         :
   pubmed           : 
