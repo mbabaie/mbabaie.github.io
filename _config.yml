@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Maryam Babaie"
   avatar           : "ProfilePic.jpg"
-  bio              : #"Your biography for the left-hand sidebar"
+  bio              : "PhD student in DArchR Research Group "
   location         : "University of California, Davis"
   employer         :
   pubmed           : 
@@ -179,7 +179,7 @@ collections:
     output: false
     permalink: /:collection/:path/
   publications:
-    output: false
+    output: true
     permalink: /:collection/:path/
   portfolio:
     output: false
