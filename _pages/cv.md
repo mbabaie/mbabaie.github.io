@@ -14,9 +14,9 @@ Education
 ======
 * Ph.D. in Computer Science [2020 – present]
  	* University of California Davis
- 		* Research: Emerging Disaggregated/Heterogenous Memory Systems 
- 		* Graduate Student Researcher at DArchR Research Group 
- 		  * GPA: 4/4
+ 	* Research: Emerging Disaggregated/Heterogenous Memory Systems 
+ 	* Graduate Student Researcher at DArchR Research Group 
+ 	  * GPA: 4/4
 
 * Master of Science in Computer Science
   * University of Central Florida [2018 – 2020]
