@@ -6,9 +6,6 @@ author_profile: true
 ---
 
 
-
-# Presentations:
-
 ### Toward High-Fidelity Heterogeneous Memory System Modeling in gem5
 * Workshop on Modeling & Simulation of Systems and Applications (ModSim)
 * Aug. 2022, Seattle, WA, USA
