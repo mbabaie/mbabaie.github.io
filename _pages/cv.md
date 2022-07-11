@@ -6,55 +6,29 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<!-- 
-{% include base_path %}
 
+ [Download my most recent CV here](http://mbabaie.github.io/files/CV.pdf)<ul>
+  
+  
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Computer Science [2020 – present]
+** University of California Davis
+	*Research: Emerging Disaggregated/Heterogenous Memory Systems
+	*Graduate Student Researcher at DArchR Research Group 
+	*GPA: 4/4
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Master of Science in Computer Science
+** University of Central Florida [2018 – 2020]
+       North Carolina State University [2017 – 2018]
+  *GPA: 4/4
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* B. Sc. In Computer Engineering
+** University of Tehran [2010-2015], Tehran, Iran
+  *Major GPA: 16.10/20 (62 credit hours)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
- -->
+
