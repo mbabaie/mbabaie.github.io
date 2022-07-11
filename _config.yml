@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Maryam Babaie / Personal Webpage"
+title                    : "Maryam Babaie"
 title_separator          : "-"
 name                     : &name "Maryam Babaie"
 description              : &description "I"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Maryam Babaie"
   avatar           : "ProfilePic.jpg"
-  bio              : "PhD student in <a href="https://arch.cs.ucdavis.edu/">DArchR Research Group</a>"
-  location         : "University of California, Davis"
+  bio              : "PhD student in DArchR Research Group at UC Davis"
+  location         : "California"
   employer         :
   pubmed           : 
   googlescholar    : 
