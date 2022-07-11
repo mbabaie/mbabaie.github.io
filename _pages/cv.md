@@ -12,6 +12,7 @@ redirect_from:
   
 Education
 ======
+
 * Ph.D. in Computer Science [2020 – present]
   * University of California Davis
   * Research: Emerging Disaggregated/Heterogenous Memory Systems 
