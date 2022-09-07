@@ -6,7 +6,12 @@ author_profile: true
 ---
 
 
-### Toward High-Fidelity Heterogeneous Memory System Modeling in gem5
+### Toward Rethinking the Management Techniques in Emerging Memory Systems
+* 8th Career Workshop for Inclusion and Diversity in Computer Architecture (CWIDCA)
+* Oct. 2022, Chicago, IL, USA
+* [**Download extended abstract here**](http://mbabaie.github.io/files/CWIDCA_Workshop_2022.pdf)
+
+* ### Toward High-Fidelity Heterogeneous Memory System Modeling in gem5
 * Workshop on Modeling & Simulation of Systems and Applications (ModSim)
 * Aug. 2022, Seattle, WA, USA
 * [**Download extended abstract here**](http://mbabaie.github.io/files/Presentation2.pdf)
